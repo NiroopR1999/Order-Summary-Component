@@ -22,8 +22,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/NiroopR1999/Order-Summary-Component)
+- Live Site URL: [Live site URL]https://niroopr1999.github.io/Order-Summary-Component/)
 
 ## My process
 
@@ -33,9 +33,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - Mobile-first workflow
 - [Vite React](https://vitejs.dev/) - JS library
 
-
 ## Author
 
 - GitHub - [Niroop R](https://github.com/NiroopR1999)
 - Frontend Mentor - [@NiroopR1999](https://www.frontendmentor.io/profile/NiroopR1999)
-
